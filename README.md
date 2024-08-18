@@ -1,4 +1,4 @@
-#How I hack myself 🚀
+# How I hack myself 🚀
 
 Hey there! Ready to dive into security? Today, we’re covering key practices to keep your apps safe, including OWASP Top 10, password security, and WAFs. Let’s get started!
 
